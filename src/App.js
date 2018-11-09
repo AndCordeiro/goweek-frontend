@@ -10,8 +10,6 @@ import Timeline from './pages/Timeline';
 
 class App extends Component {
 	render() {
-
-	console.log(process.env.URL_API);
 		return (
 			<BrowserRouter>
 				<Switch>
